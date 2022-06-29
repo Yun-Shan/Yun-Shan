@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yun-shan&show_icons=true&count_private=true&locale=cn)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun-shan&layout=compact&locale=cn)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yun-shan&locale=zh)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yun-shan&show_icons=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun-shan&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yun-shan)
 
 <!--
 **Yun-Shan/Yun-Shan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
